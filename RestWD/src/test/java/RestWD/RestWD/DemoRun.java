@@ -1,8 +1,8 @@
-package PraticeTest;
+package RestWD.RestWD;
 
 import org.testng.annotations.Test;
 
-public class Demo {
+public class DemoRun {
 
 	@Test
 	public void m1()
